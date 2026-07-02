@@ -19,4 +19,4 @@ for shape_side_n in range(3, 11):
 screen = Screen()
 screen.exitonclick()
 
-print(tim)
+
